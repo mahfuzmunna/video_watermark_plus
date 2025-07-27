@@ -1,3 +1,6 @@
+# 1.1.1
+- Updated ffmpeg version to v2.0.0
+
 # 1.1.0
 - Changed
 - BREAKING: The package has been renamed to video_watermark_plus to reflect its modernized codebase and new features. You will need to update the import in your pubspec.yaml.
