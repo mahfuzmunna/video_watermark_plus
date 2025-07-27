@@ -3,7 +3,7 @@ description: Refurbished Flutter package to add image as overlay in the video al
 homepage: https://mahfuzmunna.com/flutter/video_watermark_plus
 repository: https://github.com/mahfuzmunna/video_watermark_plus
 
-version: 1.1.0
+version: 1.1.1
 
 environment:
   # ✅ Upgraded to the latest stable Dart SDK constraint
