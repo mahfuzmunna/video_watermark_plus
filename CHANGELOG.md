@@ -1,30 +1,7 @@
-# 1.0.5
-
-- Updated FFMPEG to `5.1.0`.
-
-# 1.0.5-LTS
-
-- Updated FFMPEG to `5.1.0-LTS`.
-
-# 1.0.4
-
-- Added video progress indicator.
-
-# 1.0.3
-
-- Reduced app build size.
-
-# 1.0.2
-
-- Added new watermark image source - `Network`.
-- Fixed bug in asset watermark source.
-- Temporarly not supporting output format `.gif`
-- Added support from Android SDK 16 and IOS SDK 10.
-
-# 1.0.1
-
-- Support to add images from File and assets.
-
-# 1.0.0
-
-- Initial stable release
+# 1.1.0
+- Changed
+- BREAKING: The package has been renamed to video_watermark_plus to reflect its modernized codebase and new features. You will need to update the import in your pubspec.yaml.
+- BREAKING: The core FFmpeg dependency has been switched from ffmpeg_kit_flutter_min to ffmpeg_kit_flutter_new: ^3.0.1 for improved performance and broader format support.
+- Updated the minimum Dart SDK constraint to >=3.0.0 <4.0.0 to ensure full null safety and compatibility with modern Dart features.
+- Updated the path_provider dependency to version ^2.1.5.
+- Updated pubspec.lock with the latest resolved dependency versions.
