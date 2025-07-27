@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:video_player/video_player.dart';
-import 'package:video_watermark/video_watermark.dart';
+import 'package:video_watermark_plus/video_watermark_plus.dart';
 
 void main() {
   runApp(const MyApp());

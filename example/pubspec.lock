@@ -73,14 +73,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
-  ffmpeg_kit_flutter_min:
+  ffmpeg_kit_flutter_new:
     dependency: transitive
     description:
-      name: ffmpeg_kit_flutter_min
-      sha256: aefc06a6129bf5efd4c96b8f5201bba66aa7bb55bc959c0e18e74ad58462e08c
+      name: ffmpeg_kit_flutter_new
+      sha256: "4c067c059905fac77974bc5549d6a0c4dfa5518885fc83b106321133823da525"
       url: "https://pub.dev"
     source: hosted
-    version: "5.1.0"
+    version: "3.0.1"
   ffmpeg_kit_flutter_platform_interface:
     dependency: transitive
     description:
@@ -485,14 +485,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.0"
-  video_watermark:
+  video_watermark_plus:
     dependency: "direct main"
     description:
-      name: video_watermark
-      sha256: "66d3532b3419f0bacb4e25490b9c2386ac5e361ab38756ccaa65894bd91f0076"
+      name: video_watermark_plus
+      sha256: "97d35bd007826eaf9f3456136dd6a307f07ffc93cb42bc7f91ddd742d30786c0"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.5"
+    version: "1.1.0"
   vm_service:
     dependency: transitive
     description:
