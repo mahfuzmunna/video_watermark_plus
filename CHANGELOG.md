@@ -1,3 +1,6 @@
+# 1.2.0
+- Updated `ffmpeg_kit_flutter_new` to `^3.2.0`
+
 # 1.1.1
 - Updated ffmpeg version to v2.0.0
 
